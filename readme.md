@@ -18,13 +18,12 @@
 
 <div align="left">
  
--  ✨ Lívia or Lila
--  🍪 22y
--  🎓 software engineering student
--  👩🏾‍🎓 information technology Technique
--  🎨 front-end and future fullstack developer
--  🪴 learning javascript, angular and java
--  🍵 my favorite coffee: caramel macchiato
+  › Lívia or Lila ✨ <br>
+  › software engineering student 🎓 <br>
+  › information technology technique 👩🏾‍🎓 <br>
+  › front-end and future fullstack developer 🎨 <br>
+  › learning javascript, angular and java 🪴 <br>
+  › my favorite coffee: caramel macchiato 🍵 <br>
 </div>
 
 ##
