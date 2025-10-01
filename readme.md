@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=gmail">
  </a>
  <a href="https://www.linkedin.com/in/analiviadesouza/">
-  <img src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=linkedin&logoColor=blue">
+  <img src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
  <a href="https://www.instagram.com/lilladesouza">
   <img src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=instagram">
