@@ -13,10 +13,10 @@
 <div align="left">
  
   › Lívia or Lila ✨ <br>
-  › coding student 🎓 <br>
+  › python & agentic AI student 🎓 <br>
   › information technology technique 👩🏾‍🎓 <br>
-  › future mobile developer 🎨 <br>
-  › learning react native and flutter 🪴 <br>
+  › future product manager 🎨 <br>
+  › learning prompt engineering and python 🪴 <br>
   › my favorite coffee: caramel latte macchiato 🍵 <br>
 </div>
 
